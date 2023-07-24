@@ -7,6 +7,7 @@ I'm a software developer who loves tinkering with new and exciting technologies.
 - OpenAI API Wrappers
 - Vector DBs
 - Go
+- Rust
 
 ## 💬 Ask me about ...
 
