@@ -1,6 +1,6 @@
 # Hi, I'm franco 👋
 
-I'm a software developer who loves tinkering with new and exciting technologies. I love working with Typescript (Node), Ruby (Rails), Python, React and SQL db's.
+I'm a software developer who loves tinkering with new and exciting technologies. I love working with Typescript (Node), Ruby (Rails), Python, React and SQL DB's.
 
 ## 🌱 I’m currently tinkering with ...
 
