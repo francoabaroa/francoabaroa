@@ -4,7 +4,7 @@ I'm a software developer who loves tinkering with new and exciting technologies.
 
 ## 🌱 I’m currently tinkering with ...
 
-- OpenAI API Wrappers
+- LLMs
 - Vector DBs
 - Go
 - Rust
